@@ -17,7 +17,6 @@ public class Freamework_eg{
 
          System.out.println(list.contains("Sayali"));
 
-             Collections.reverse(list);     
-            System.out.println(list);
+            
     }
 }
